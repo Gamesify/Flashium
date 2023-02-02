@@ -1,8 +1,8 @@
 # Flashium Beta  (lütfen :star: verin)
 Flash Destekleyen Tarayıcı
  
-Windows için:
-:link: [Download Installer](https://github.com/radubirsan/FlashBrowser/releases/tag/v0.21) (124 MB) 
+Windows:
+:link: [Taşınabilir İndir](https://github.com/radubirsan/FlashBrowser/releases/tag/v0.21) (124 MB) 
 
 MacOS (yakında)
 
