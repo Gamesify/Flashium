@@ -3,7 +3,7 @@
 Flash Destekleyen Tarayıcı
  
 Windows:
-:link: [Taşınabilir İndir]([https://github.com/radubirsan/FlashBrowser/releases/tag/v0.21](https://github.com/Gamesify/Flashium/releases/tag/v1.01.1)) (239 MB) 
+:link: [Taşınabilir İndir](https://github.com/Gamesify/Flashium/releases/tag/v1.01.1) (239 MB) 
 
 MacOS (yakında)
 
