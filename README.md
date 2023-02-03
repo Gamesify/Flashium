@@ -9,8 +9,7 @@ MacOS (yakında)
 
 Linux (yakında)
 
-# Nasıl Kullanılır?
-How to Enable Adobe Flash Player on Chrome Browser?
+# Nasıl İndirilir?
 
 - Portable (taşınabilir) İndir
 - Zip'ten çıkart
